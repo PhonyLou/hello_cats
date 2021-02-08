@@ -15,5 +15,3 @@ libraryDependencies ++= Seq(
 scalacOptions ++= Seq(
   "-Xfatal-warnings"
 )
-
-coverageMinimum in ThisBuild := 100
